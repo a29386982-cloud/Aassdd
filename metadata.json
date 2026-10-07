@@ -1,0 +1,6 @@
+{
+  "name": "Creative Studio Hub",
+  "description": "Интерактивная стартовая студия и рабочее пространство для создания веб-приложений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
